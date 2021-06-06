@@ -1,0 +1,49 @@
+
+Epoch 1 of 10 -- average accuracy is 0.546 (train) -- average loss is 0.689 -- average f1score is 0.358
+
+
+
+ val accuracy is 0.545 (train) -- val f1score is 0.312
+
+
+
+
+Epoch 2 of 10 -- average accuracy is 0.586 (train) -- average loss is 0.671 -- average f1score is 0.485
+
+
+
+ val accuracy is 0.567 (train) -- val f1score is 0.534
+
+
+
+
+Epoch 3 of 10 -- average accuracy is 0.611 (train) -- average loss is 0.659 -- average f1score is 0.543
+
+
+
+ val accuracy is 0.573 (train) -- val f1score is 0.552
+
+
+
+
+Epoch 4 of 10 -- average accuracy is 0.622 (train) -- average loss is 0.649 -- average f1score is 0.548
+
+
+
+ val accuracy is 0.600 (train) -- val f1score is 0.593
+
+
+
+
+Epoch 5 of 10 -- average accuracy is 0.641 (train) -- average loss is 0.636 -- average f1score is 0.558
+
+
+
+ val accuracy is 0.600 (train) -- val f1score is 0.545
+
+
+----------------------------------------TEST-------------------------------
+Test score:  0.5826123
+
+Test acc:  0.60522777
+
